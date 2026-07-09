@@ -19,3 +19,11 @@ https://raw.githubusercontent.com/gotardelo/cobblemonlegacy-nova-downloads/main/
 - Minecraft: `1.21.1`
 - Loader: `Fabric`
 - Fabric Loader: `0.19.3`
+
+## Pack atual
+
+- Versao: `0.1.0`
+- Mods: `103`
+- Resourcepacks: `0`
+- Datapacks/configs gerenciados: `0`
+- Release dos arquivos: `pack-v0.1.0`
