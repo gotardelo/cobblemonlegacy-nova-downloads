@@ -1,0 +1,8 @@
+pack/mods/*
+pack/resourcepacks/*
+pack/config/*
+!pack/mods/.gitkeep
+!pack/resourcepacks/.gitkeep
+!pack/config/.gitkeep
+*.tmp
+*.download
