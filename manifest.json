@@ -1,6 +1,6 @@
 {
     "name":  "Cobblemon Legacy",
-    "version":  "0.1.0",
+    "version":  "0.1.1",
     "minecraftVersion":  "1.21.1",
     "fabricLoaderVersion":  "0.19.3",
     "files":  [
@@ -117,12 +117,6 @@
                       "url":  "https://github.com/gotardelo/cobblemonlegacy-nova-downloads/releases/download/pack-v0.1.0/cobbleboss-6.0.0-fabric.jar",
                       "sha256":  "a4df1ba41334227fab754509908c74eedd956a97040b7a5898c7536907a48969",
                       "size":  691570
-                  },
-                  {
-                      "path":  "mods/cobblebrain-fabric-1.3.2.jar",
-                      "url":  "https://github.com/gotardelo/cobblemonlegacy-nova-downloads/releases/download/pack-v0.1.0/cobblebrain-fabric-1.3.2.jar",
-                      "sha256":  "fc0a8aac7834c156579afbcc224927315209ffaf71e285b7cc4fd6f44606ba87",
-                      "size":  417306
                   },
                   {
                       "path":  "mods/cobblecardquest-1.2.0.jar",
