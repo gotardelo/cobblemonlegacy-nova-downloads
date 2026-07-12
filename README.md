@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/gotardelo/cobblemonlegacy-nova-downloads/main/
 ## Pack atual
 
 - Versao: `0.1.0`
-- Mods: `103`
+- Mods: `104`
 - Resourcepacks: `24`
 - Datapacks/configs gerenciados: `0`
 - Release dos arquivos: `pack-v0.1.0`
